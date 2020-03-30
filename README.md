@@ -41,3 +41,9 @@ Pembuatan Database MySql
 ![Alt Text](https://github.com/lethanfadlil/Modul-Persiapan-UKL-0-2/blob/master/Modul%202%20UKL/Hasil%20Jadi%20Penampilan%20(Buku).PNG)
 
 ![Alt Text](https://github.com/lethanfadlil/Modul-Persiapan-UKL-0-2/blob/master/Modul%202%20UKL/Hasil%20Jadi%20Penampilan%20(Anggota).PNG)
+
+Setelah itu, saya membuat form penambahan data Peminjaman, dan tampilannya seperti berikut.
+
+![Alt Text](https://github.com/lethanfadlil/Modul-Persiapan-UKL-0-2/blob/master/Form%20Peminjaman.PNG)
+
+Sayangnya, setelah saya coba data yang harus diisi, Datanya tidak tersimpan/tampil pada daftar Data Peminjaman.
