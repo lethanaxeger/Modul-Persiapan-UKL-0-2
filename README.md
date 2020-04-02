@@ -47,3 +47,15 @@ Setelah itu, saya membuat form penambahan data Peminjaman, dan tampilannya seper
 ![Alt Text](https://github.com/lethanfadlil/Modul-Persiapan-UKL-0-2/blob/master/Form%20Peminjaman.PNG)
 
 Sayangnya, setelah saya coba data yang harus diisi, Datanya tidak tersimpan/tampil pada daftar Data Peminjaman.
+
+Selanjutnya, saya membuat form dari tombol "EDIT" pada tabel Data Peminjaman.
+Pada prosesnya sudah sesuai namun masih ada error yang dimana sistem tidak mendeteksi adanya atribut yang bernama 'id_pinjam", sedangkan pada file php yang bersangkutan itu memilikinya, serta pada database pun juga memilikinya. Saya masih solving problem untuk hal ini.
+
+![Alt Text](https://github.com/lethanfadlil/Modul-Persiapan-UKL-0-2/blob/master/Form-Edit.PNG)
+
+Setelah itu, tidak ketinggalan juga fitur Login-Logout. Semua Username dan Password sudah disediakan pada saat saya membuat database di phpMyAdmin.
+
+![Alt Text](https://github.com/lethanfadlil/Modul-Persiapan-UKL-0-2/blob/master/Form%20Login.PNG)
+Jika Berhasil maka Akan masuk ke form SiPerpus
+![Alt Text](https://github.com/lethanfadlil/Modul-Persiapan-UKL-0-2/blob/master/Form%20Login%202.PNG)
+Jika Gagal, maka anda tetap di website login.
